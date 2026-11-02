@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  themes.xml
+  Material 3 DayNight theme — automatically switches light/dark.
+-->
+<resources>
+    <style name="Theme.JniAlertDialog" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand colour -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand colour -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>

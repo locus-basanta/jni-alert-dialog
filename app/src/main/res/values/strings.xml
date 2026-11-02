@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- String resources for JNI Alert Dialog -->
+<resources>
+    <string name="app_name">JNI Alert Dialog</string>
+    <string name="btn_show_alert">Show Alert from JNI</string>
+</resources>

@@ -1,0 +1,43 @@
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.navigation/
+
+# Gradle
+.gradle/
+build/
+gradle/wrapper/
+gradlew
+gradlew.bat
+
+# Local configuration (SDK path, etc.)
+local.properties
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Native build output
+.cxx/
+.externalNativeBuild/
+obj/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.kotlin_module
+
+# Proguard
+proguard-rules.pro
+
+# Captures (Android Studio profiler)
+captures/
+
+# Signing
+*.jks
+*.keystore
